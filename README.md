@@ -79,9 +79,7 @@ Waterfall Chart (Monthly DoD): Display of the aggregate percentage change per mo
 
 Volatility Table: Lower right panel acting as a detailed risk audit grid to list final dates, spreads, and rates.
 
-### 💡 GitHub Upload Tip:
-When saving the code above in your `README.md` file, make sure to upload the image file **`PTAX ​​DOLLAR.png`** to the **main root** of your GitHub repository (the same folder where the README file is located).
-
-This way, the link `![Dashboard Analítico de Cotação do Dólar](PTAX%20DOLLAR.png)` will automatically find the image and render it in high definition on your portfolio page!
+![Dashboard ANALYTICAL PANEL - PTAX DOLLAR QUOTATION](dbutils.widgets.png)
+![Dashboard ANALYTICAL PANEL - PTAX DOLLAR QUOTATION](PTAX.DOLLAR.png)
 
 
