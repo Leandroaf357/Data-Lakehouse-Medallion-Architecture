@@ -81,6 +81,6 @@ Volatility Table: Lower right panel acting as a detailed risk audit grid to list
 
 ![Dashboard ANALYTICAL PANEL - PTAX DOLLAR QUOTATION](dbutils.widgets.png)
 
-![Dashboard ANALYTICAL PANEL - PTAX DOLLAR QUOTATION](PTAX.DOLLAR.png)
+![Dashboard ANALYTICAL PANEL - PTAX DOLLAR QUOTATION](PTAX DOLLAR.png)
 
 
