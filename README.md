@@ -80,6 +80,7 @@ Waterfall Chart (Monthly DoD): Display of the aggregate percentage change per mo
 Volatility Table: Lower right panel acting as a detailed risk audit grid to list final dates, spreads, and rates.
 
 ![Dashboard ANALYTICAL PANEL - PTAX DOLLAR QUOTATION](dbutils.widgets.png)
+
 ![Dashboard ANALYTICAL PANEL - PTAX DOLLAR QUOTATION](PTAX.DOLLAR.png)
 
 
