@@ -43,6 +43,7 @@ ROW_NUMBER(): Partitioned by date and ordered by timestamp in descending order t
 LAG(): Executed directly on the distributed Spark engine to capture the previous day's quote and natively calculate the daily percentage variation (dod_variation_pct), relieving the Power BI processing load.
 
 Part 2 — Analytical Layer and Visualization (Power BI Desktop)
+
 4. Connection and Loading (Power Query)
 Connection established via Spark SQL Endpoint directly with the active Databricks cluster.
 
