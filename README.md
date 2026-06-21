@@ -78,15 +78,4 @@ Waterfall Chart (Monthly DoD): Display of the aggregate percentage change per mo
 
 Volatility Table: Lower right panel acting as a detailed risk audit grid to list final dates, spreads, and rates.
 
-🎯 Final Structured Layout: The visual panel was consolidated into the following geometric distribution of elements:
-┌────────────────────── ───────────────────────┐
-│ Exchange Rate Volatility Analysis - Dollar │
-├──────────────────┬─── ───────────────────────┤
-│ Year 2023-2026 │ Month Name: All │
-├────────┬─────────┬─── ───────┬───────────────┤
-│ 6.2086 │ 6.2086 │ 0.0006 │ HIGH RISK │
-├────────┴─────────┴──────────┴───────────────┤
-│ 📈 Line fluctuating — sell_rate 2023→2026 │
-├─────────────────────┬──────────────────────┤
-│ Monthly DoD Cascade │ Working Days Table │
-└─────────────────────┴───────────────────────┘
+
